@@ -2,6 +2,8 @@
 
 Comprehensive PostgreSQL queries analyzing COVID-19 death and vaccination datasets using advanced SQL techniques including joins, views, CTEs, and data aggregation to explore pandemic trends and vaccination patterns.
 
+Dataset: https://ourworldindata.org/covid-deaths
+
 ##  SQL Techniques Used
 - Complex Joins & CTEs
 - Views & Window Functions  
